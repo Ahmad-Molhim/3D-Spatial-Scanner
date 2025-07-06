@@ -22,7 +22,6 @@ An embedded system that performs 360° spatial scanning using a VL53L1X time-of-
   - `numpy`
   - `open3d`
 - **I2C** and **UART** communication protocols
-- **KiCad** (for schematic)
 - **3D printing** (for mounts and hardware integration)
 
 ---
